@@ -9,7 +9,6 @@
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
-  - [Tests](#tests)
   
   ## Installation
   
@@ -25,12 +24,8 @@
 * [Mongoose](https://mongoosejs.com/)
 * [Nodemon](https://nodemon.io/)
 
-## Tests 
 
-https://user-images.githubusercontent.com/114313171/222860013-51243bc6-c9a4-430f-851a-546e5492ac30.mp4
-
-  https://drive.google.com/file/d/1AcBUfXCzkjtezYBhR18tvPPo4NNo8mAL/view
 
 ## Questions
 
-Have questions? [Email Me!](mailto:thewillkim@icloud.com)
+Have questions? [Email Me](mailto:avaloserick97@gmail.com)
